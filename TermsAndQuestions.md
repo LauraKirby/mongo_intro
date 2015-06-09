@@ -31,4 +31,4 @@
 3. What is Mongoose?
     - It is MongoDB with a schema.  
 4. What is a Mongoose Model? 
-    - Models are fancy constructors compiled from the Schema definitions. Instances of these models represent documents which can be saved and retreived from the database. All document creation and retreival from the database is handled by these models.
+    - Models are fancy constructors compiled from the Schema definitions. Instances of these models represent documents which can be saved and retreived from thegit  database. All document creation and retreival from the database is handled by these models. Source: http://mongoosejs.com/docs/models.html
